@@ -1,10 +1,8 @@
 ## 강영수의 개발 페이지
 
-### 1. Silon Clone
-https://tennoken.github.io/SilonClone/
+### 1. Silon Clone (반응형)
+<a>https://tennoken.github.io/SilonClone/<a/>
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
