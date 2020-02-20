@@ -1,6 +1,8 @@
 ## 강영수의 개발 페이지
 
-You can use the [editor on GitHub](https://github.com/tennoken/Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###1. Silon Clone
+https://tennoken.github.io/SilonClone/
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
