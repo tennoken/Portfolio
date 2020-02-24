@@ -4,6 +4,6 @@
 [https://tennoken.github.io/SilonClone/](https://tennoken.github.io/SilonClone/){: target="_blank"}
 
 
-### 1. WeatherTodoList (React + Weather Api(OpenWeatherMap))
+### 2. WeatherTodoList (React + Weather Api(OpenWeatherMap))
 [https://tennoken.github.io/todolist-weather-react-app/](https://tennoken.github.io/todolist-weather-react-app/){: target="_blank"}
 
