@@ -7,6 +7,8 @@
 ### 2. WeatherTodoList (React + Weather Api(OpenWeatherMap))
 [https://tennoken.github.io/todolist-weather-react-app/](https://tennoken.github.io/todolist-weather-react-app/){: target="_blank"}
 
+### 3. Nasa-picture-of-the-day (React + Nasa Api)
+[https://tennoken.github.io/nasa-picture-of-the-day/](https://tennoken.github.io/nasa-picture-of-the-day/){: target="_blank"}
 
-### 3. LeoSpa Clone (미완성 + 작업중)
+### 4. LeoSpa Clone (미완성 + 작업중)
 [https://tennoken.github.io/LeospaClone/](https://tennoken.github.io/LeospaClone/){: target="_blank"}
