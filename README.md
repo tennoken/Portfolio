@@ -7,3 +7,6 @@
 ### 2. WeatherTodoList (React + Weather Api(OpenWeatherMap))
 [https://tennoken.github.io/todolist-weather-react-app/](https://tennoken.github.io/todolist-weather-react-app/){: target="_blank"}
 
+
+### 3. LeoSpa Clone (미완성 + 작업중)
+[https://tennoken.github.io/LeospaClone/](https://tennoken.github.io/LeospaClone/){: target="_blank"}
