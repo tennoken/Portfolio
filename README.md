@@ -15,3 +15,6 @@
 
 ### 4. LeoSpa Clone
 [https://tennoken.github.io/LeospaClone/](https://tennoken.github.io/LeospaClone/){: target="_blank"}
+
+### 5. News (TypeScript + React + News Api)
+[https://github.com/tennoken/typescript-react-news-app](https://github.com/tennoken/typescript-react-news-app){: target="_blank"}
